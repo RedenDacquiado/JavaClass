@@ -3,6 +3,8 @@ public class Module3PT4 {
         String [] names = {"Joshua", "Julian", "Ester", "John", "Mary"};
         System.out.println("Old Array:");
 
+        
+
         System.out.println("First Element: " + names[0]);
         System.out.println("Second Element: " + names[1]);
         System.out.println("Third Element: " + names[2]);
